@@ -1,6 +1,7 @@
 streamlit
 opencv-python-headless
-numpy
+numpy<2
 matplotlib
+tensorflow-cpu==2.16.1
+tf-keras==2.16.0
 deepface
-tensorflow
